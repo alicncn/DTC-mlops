@@ -1,4 +1,4 @@
-# DTS-mlops
+# DTC-mlops
 ## 01-intro homework answers:
 
 Q1: 19
